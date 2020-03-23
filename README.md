@@ -1,5 +1,7 @@
 # MasterMind-for-Words
 
+(C) Mahdi MN – Version 2020-03
+
 This is a simple game that I wrote to entertain my son in mathematical problem-solving, 
 but the COVID-19 pandemic took place only a couple of weeks afterwards and thus I 
 enhanced it a little (added a few interface elements and changed some UI elements to 
@@ -39,7 +41,7 @@ Development notes:
 The following are current issues and ways in which this can be improved.
 Please help me if you can!
 
-1. Not all exceptions -- especially for input validation -- are handled.
+1. Not all exceptions – especially for input validation – are handled.
 2. For an unknown bug in Microsoft Excel, the input forms' sizes shrink everytime you
    run the program.
 3. I was trying to capture keystrokes while the system is computing its next guess,
