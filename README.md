@@ -1,5 +1,11 @@
 # MasterMind-for-Words
 
+This is a simple game that I wrote to entertain my son in mathematical problem-solving, 
+but the COVID-19 pandemic took place only a couple of weeks afterwards and thus I 
+enhanced it a little (added a few interface elements and changed some UI elements to 
+prevent some of input errors) so more people around the world would use it while in 
+self-quarantine!
+
 User notes:
 
 Welcome to the "Master Mind for Words" game!
@@ -49,3 +55,6 @@ Please help me if you can!
 6. The scoreboard does not record any scores in the two-player mode.
 7. The players do not have an option to input their names anywehere in the system for a 
    more personal message interchange experience.
+8. I have virtually used pointers in my algorithm because I did not know if pointers are
+   supported in VBA. Please let me know if you can think of algorithmic enhancements if
+   you can think of any!
