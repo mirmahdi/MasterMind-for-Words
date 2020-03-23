@@ -2,6 +2,9 @@
 
 (C) Mahdi MN – Version 2020-03
 
+*** PLEASE ENABLE MACROS TO ALLOW THE GAME EXECUTE. ***
+*** The code is open source and you can verify that it is harmless. ***
+
 This is a simple game that I wrote to entertain my son in mathematical problem-solving, 
 but the COVID-19 pandemic took place only a couple of weeks afterwards and thus I 
 enhanced it a little (added a few interface elements and changed some UI elements to 
